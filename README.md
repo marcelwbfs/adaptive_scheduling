@@ -1,5 +1,6 @@
 # Adaptive Scheduling
-Scripts for investigating adaptive learning rate scheduling.
+Scripts for investigating adaptive 
+learning rate scheduling.
 
 
 ## License
